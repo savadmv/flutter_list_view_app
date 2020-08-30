@@ -10,7 +10,7 @@ A new Flutter application Demonstrate ListView. A Common requirement in Applicat
 
 
 ### Screenshot
-<img src="/savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.32.36%20AM.png" width="300">
+<img src="https://github.com/savadmv/flutter_list_view_app/blob/master/screenshot_list_page.png" width="300">
 
 
 
