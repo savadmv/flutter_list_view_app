@@ -1,6 +1,18 @@
-# flutter_list_view_app
+# Flutter ListView Sample Application
 
-A new Flutter application Demonstriate Lsitview 
+A new Flutter application Demonstrate ListView. A Common requirement in Application development
+
+
+### How i did it
+
+   * Website Providing sample API ("https://reqres.in/api/users")
+   * Dio Library
+
+
+### Screenshot
+<img src="/savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.32.36%20AM.png" width="300">
+
+
 
 ## Getting Started
 
